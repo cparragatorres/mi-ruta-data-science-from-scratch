@@ -1,0 +1,9 @@
+# ===============================
+# Herramientas de desarrollo
+# ===============================
+# Este archivo contiene las herramientas de desarrollo del proyecto.
+# Asegúrate de que este archivo esté en la raíz del proyecto.
+# Puedes instalar las herramientas ejecutando:
+# pip install -r dev-requirements.txt
+ipython
+flake8
